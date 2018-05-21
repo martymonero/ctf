@@ -26,7 +26,7 @@ or even better
 git reflog show HEAD
 ```
 
-The latter command gave this nice list and revealed a coommit:
+The latter command gave this nice list and revealed a commit with the message "Flag":
 
 ```
 22d3349 HEAD@{0}: checkout: moving from develop to master
