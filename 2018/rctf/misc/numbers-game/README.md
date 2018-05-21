@@ -25,7 +25,7 @@ I lost at least an hour because I considered the "+" as a character of the known
 
 My typical problem... making things too complicated :D
 
-After removing the "+" and also removing the special characters from my Brute Force Character set the script did only perform way faster it even worked :D I reconnected to the Host to input the XXXX ...only to realize that the Hashes and the Known Parts change...
+After removing the "+" and also removing the special characters from my Brute Force Character Set, the script did not only perform way faster, it even worked :D I reconnected to the Host to input the XXXX ...only to realize that the Hashes and the Known Parts change on every reconnect...
 
 Ok no problem. I extended the python script to open the socket itself and extract the Known Part and the Target Hash.
 
@@ -67,7 +67,7 @@ Nope. 0, 1
 You lose, Correct answer is 2 5 6 7 .Bye.
 ```
 
-After playing the game manually for a while I knew that I needed to create a script to solve it. Also the intro indicated that there were more rounds. I figured the two hints where telling me which numbers were right and at the right spot and which numbers were right and at the wrong spot. This turned out to be right.
+After playing the game manually for a while I knew that I needed to create a script to solve it because the socket had a timeout and you needed to be quick. Also the intro indicated that there were more rounds. I figured the two hints were telling me which numbers were right and at the right spot and which numbers were right and at the wrong spot. This turned out to be right.
 
 After googling "4 out of 10 6 tries" I ended up in math forums and the algorithm vortex of Donald Knuth. The Game I was playing was similiar to "MasterMind". An apparently very popular game which I had never played and the best way to solve it was by using Donald Knuth's "Five Guess Algorithm".
 
