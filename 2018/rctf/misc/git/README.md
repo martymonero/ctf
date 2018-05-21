@@ -8,7 +8,12 @@ You were given a zip archive that contains a local git repository. Inspecting th
 
 We can assume that the flag is hidden in one of the earlier commits.
 
-As someone who always works on his own git repository directly in the master branch I wasn't really a git expert at this point. But as you know hacking is about being able to research new topics on the fly.
+As someone who always works on his own git repository and commits directly to the master branch I wasn't really a git expert at this point. 
+
+![Git Meme](https://d3suqxyr95ccqd.cloudfront.net/sites/default/files/styles/image_600_width/public/secondary_images/images_and_text/gitflow-no-commit-to-master.jpg?itok=ucTkD0WY
+)
+
+But as you know hacking is about being able to research new topics on the fly.
 
 A couple google queries later I found two commands that revealed the necessary information. Key was to include the reflogs.
 
