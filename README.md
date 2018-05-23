@@ -18,4 +18,9 @@ A collection of very helpful reverse engineering resources
  https://github.com/fireeye/flare-vm
 - ReLab - Dockerized Reverse Engineering Environment
  https://github.com/cboin/re_lab
+ 
+ ### Awesome Reverse Engineering Write Ups
+ 
+CrackMe 2 By MalwareBytes - Write Up By @Eleemosynator
+https://github.com/eleemosynator/writeups/blob/master/mb_crackme_2/readme.md
 
