@@ -6,6 +6,12 @@ I want to turn this into a valuable resource for all people wanting to learn how
 
 [RCTF 2018 - Misc/Number Game](2018/rctf/misc/numbers-game/README.md)
 
+## Pentesting Linux Distros
+- BlackArch :O
+https://blackarch.org/
+
+- Kali
+https://www.kali.org/
 
 ## Reverse Engineering Resources
 A collection of very helpful reverse engineering resources
@@ -18,6 +24,19 @@ A collection of very helpful reverse engineering resources
  https://github.com/fireeye/flare-vm
 - ReLab - Dockerized Reverse Engineering Environment
  https://github.com/cboin/re_lab
+ 
+### Sick Reverse Engineering Tools
+* Frida
+https://www.frida.re/
+
+* radare2
+http://www.radare.org/
+
+* BinaryNinja 
+https://binary.ninja/
+
+* IDA v7.0 Free
+https://www.hex-rays.com/products/ida/support/download_freeware.shtml
  
  ### Awesome Reverse Engineering Write Ups
  
